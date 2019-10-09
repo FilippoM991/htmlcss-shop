@@ -1,12 +1,6 @@
-body {
+.prodotto {
+    width: 500px;
+    height: 500px;
+    display: inline-block;
     background-color: lightgrey;
-    display: inline-block;
-    width: 400px;
-}
-span {
-    width: 20px;
-    height: 15px;
-    border-width: 2px;
-    border-style: inset;
-    display: inline-block;
 }
