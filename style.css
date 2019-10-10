@@ -1,6 +1,16 @@
-.prodotto {
-    width: 500px;
-    height: 500px;
-    display: inline-block;
+body{
     background-color: lightgrey;
+    margin: auto;
+
+}
+.prodotto {
+    display: inline-block;
+}
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+.sale {
+    background-color: green;    
 }
